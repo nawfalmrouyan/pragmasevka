@@ -1,0 +1,212 @@
+# npm run build -- ttf::pragmasevka
+[buildPlans.pragmasevka]
+family = "Pragmasevka"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+hintParams = ["-a", "qqq"]
+
+[buildPlans.pragmasevka.widths.normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.pragmasevka.widths.condensed]
+shape = 490
+menu = 3
+css = "condensed"
+
+[buildPlans.pragmasevka.metricOverride]
+leading = 1100
+xHeight = 550
+
+[buildPlans.pragmasevka.ligations]
+inherits = "dlig"
+
+[buildPlans.pragmasevka.variants]
+inherits = "ss08"
+
+[buildPlans.pragmasevka.weights.regular]
+shape = 425
+menu = 400
+css = 400
+
+[buildPlans.pragmasevka.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.pragmasevka.weights.bold]
+shape = 800
+menu = 700
+css = 700
+
+[buildPlans.pragmasevka.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.pragmasevka.slopes]
+upright = "default.Upright"
+italic = "default.Italic"
+
+[buildPlans.pragmasevkaile]
+family = "Pragmasevka Aile"
+spacing = "quasi-proportional"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+hintParams = ["-a", "qqq"]
+
+[buildPlans.pragmasevkaile.widths.normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.pragmasevkaile.widths.condensed]
+shape = 490
+menu = 3
+css = "condensed"
+
+[buildPlans.pragmasevkaile.metricOverride]
+leading = 1100
+xHeight = 550
+
+[buildPlans.pragmasevkaile.ligations]
+inherits = "dlig"
+
+[buildPlans.pragmasevkaile.variants]
+inherits = "ss08"
+
+[buildPlans.pragmasevkaile.weights.regular]
+shape = 425
+menu = 400
+css = 400
+
+[buildPlans.pragmasevkaile.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.pragmasevkaile.weights.bold]
+shape = 800
+menu = 700
+css = 700
+
+[buildPlans.pragmasevkaile.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.pragmasevkaile.slopes]
+upright = "default.Upright"
+italic = "default.Italic"
+
+[buildPlans.pragmasevkaileserif]
+family = "Pragmasevka Aile Serif"
+spacing = "quasi-proportional"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+hintParams = ["-a", "qqq"]
+
+[buildPlans.pragmasevkaileserif.widths.normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.pragmasevkaileserif.widths.condensed]
+shape = 490
+menu = 3
+css = "condensed"
+
+[buildPlans.pragmasevkaileserif.metricOverride]
+leading = 1100
+xHeight = 550
+
+[buildPlans.pragmasevkaileserif.ligations]
+inherits = "dlig"
+
+[buildPlans.pragmasevkaileserif.variants]
+inherits = "ss08"
+
+[buildPlans.pragmasevkaileserif.weights.regular]
+shape = 425
+menu = 400
+css = 400
+
+[buildPlans.pragmasevkaileserif.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.pragmasevkaileserif.weights.bold]
+shape = 800
+menu = 700
+css = 700
+
+[buildPlans.pragmasevkaileserif.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.pragmasevkaileserif.slopes]
+upright = "default.Upright"
+italic = "default.Italic"
+
+[buildPlans.pragmasevkaserif]
+family = "Pragmasevka Serif"
+spacing = "term"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+hintParams = ["-a", "qqq"]
+
+[buildPlans.pragmasevkaserif.widths.normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.pragmasevkaserif.widths.condensed]
+shape = 490
+menu = 3
+css = "condensed"
+
+[buildPlans.pragmasevkaserif.metricOverride]
+leading = 1100
+xHeight = 550
+
+[buildPlans.pragmasevkaserif.ligations]
+inherits = "dlig"
+
+[buildPlans.pragmasevkaserif.variants]
+inherits = "ss08"
+
+[buildPlans.pragmasevkaserif.weights.regular]
+shape = 425
+menu = 400
+css = 400
+
+[buildPlans.pragmasevkaserif.weights.semibold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.pragmasevkaserif.weights.bold]
+shape = 800
+menu = 700
+css = 700
+
+[buildPlans.pragmasevkaserif.weights.heavy]
+shape = 900
+menu = 900
+css = 900
+
+[buildPlans.pragmasevkaserif.slopes]
+upright = "default.Upright"
+italic = "default.Italic"
